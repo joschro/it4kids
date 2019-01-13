@@ -19,6 +19,6 @@ Relevante Themen
 # Kapitel
 1. Computer & Internet
 ![Alt text](./1 Computer & Internet/Computer_und_Internet.svg)
-<img src="./1 Computer %26 Internet/Computer_und_Internet.svg">
+<img src="./1%20Computer%20%26%20Internet/Computer_und_Internet.svg">
 
 2. Anbieter von Diensten im Internet
