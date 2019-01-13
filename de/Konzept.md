@@ -18,6 +18,7 @@ Relevante Themen
 
 # Kapitel
 1. Computer & Internet
+
 ![Alt text](./1 - Computer %26 Internet/Computer_und_Internet.svg)
 <img src="./1 - Computer %26 Internet/Computer_und_Internet.svg">
 
