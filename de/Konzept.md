@@ -19,10 +19,10 @@ Relevante Themen
 # Kapitel
 1. Computer & Internet
 
-![Alt text](./1 - Computer %26 Internet/Computer_und_Internet.svg)
-<img src="./1 - Computer %26 Internet/Computer_und_Internet.svg">
+![Alt text](./1_-_Computer_und_Internet.svg)
+<img src="./1_-_Computer_und_Internet.svg">
 
-![Alt text](https://raw.github.com/joschro/it4kids/blob/master/de/1%20-%20Computer%20%26%20Internet/Computer_und_Internet.svg?sanitize=true)
-<img src="https://raw.github.com/joschro/it4kids/blob/master/de/1%20-%20Computer%20%26%20Internet/Computer_und_Internet.svg?sanitize=true">
+![Alt text](https://raw.github.com/joschro/it4kids/blob/master/de/1_-_Computer_und_Internet.svg?sanitize=true)
+<img src="https://raw.github.com/joschro/it4kids/blob/master/de/1_-_Computer_und_Internet.svg?sanitize=true">
 
 2. Anbieter von Diensten im Internet
