@@ -5,8 +5,14 @@
 Kindern ab Klasse 5 einen gefahrlosen Umgang mit digitalen Medien durch Aufklärung und Anleitung zu ermöglichen.
 
 ## Rahmen
-Relevante Themen
+Relevante Themen in Blöcken von 45min integriert im Schulunterricht oder als zusätzliches Angebot z.B. als AG.
 
+## Themen
+* Computer & Internet
+* Surfen im Internet: Suchmaschinen und Portale
+* Email: Gefahren und Regeln beim Mailverkehr
+* Datenschutz & Privatsphäre
+* Handy & Co. - Typische Apps
 
 
 ## Werkzeuge
