@@ -21,7 +21,6 @@ Zum Anschauen der Kapitel einfach auf das entsprechende Bild klicken, dann auf "
 
 1. Computer & Internet
 
-![Alt text](./1_-_Computer_und_Internet.svg)
 <img src="./1_-_Computer_und_Internet.svg">
 
 2. Anbieter von Diensten im Internet
