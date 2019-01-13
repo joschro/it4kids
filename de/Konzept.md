@@ -17,12 +17,11 @@ Relevante Themen
 
 
 # Kapitel
+Zum Anschauen der Kapitel einfach auf das entsprechende Bild klicken, dann auf "Download" und die heruntergeladene SVG Datei im Browser öffnen.
+
 1. Computer & Internet
 
 ![Alt text](./1_-_Computer_und_Internet.svg)
 <img src="./1_-_Computer_und_Internet.svg">
-
-![Alt text](https://raw.github.com/joschro/it4kids/blob/master/de/1_-_Computer_und_Internet.svg?sanitize=true)
-<img src="https://raw.github.com/joschro/it4kids/blob/master/de/1_-_Computer_und_Internet.svg?sanitize=true">
 
 2. Anbieter von Diensten im Internet
