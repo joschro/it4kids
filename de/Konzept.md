@@ -13,17 +13,17 @@ Relevante Themen in Blöcken von 45min integriert im Schulunterricht oder als zu
 #### Programmausführung
 #### Client/Server
 #### Dienste im Internet
-##### Suchmaschinen: Google, Bing,
-##### Soziale Netzwerke: Facebook, Twitter, Instagram,
-##### Chat-Dienste: Whatsapp, Facebook Messenger, Snapchat, Hangout
-##### Email: GMX, Web.de, 1&1,
+- Suchmaschinen: Google, Bing,
+- Soziale Netzwerke: Facebook, Twitter, Instagram,
+- Chat-Dienste: Whatsapp, Facebook Messenger, Snapchat, Hangout
+- Email: GMX, Web.de, 1&1,
 #### Mobile Clients (Smartphone, Tablet)
 #### Vertrauen in Software & Datensicherheit
-##### Open Source vs. Proprietäre Software
-##### Verschlüsselung
-spiceware
-Verschlüsselung knacken (Alphabet verschieben)
-WhatsApp API
+- Open Source vs. Proprietäre Software
+- Verschlüsselung
+  - spiceware
+  - Verschlüsselung knacken (Alphabet verschieben)
+  - WhatsApp API
 
 ### Surfen im Internet: Suchmaschinen und Portale
 #### https://www.polizei-beratung.de/themen-und-tipps/gefahren-im-internet/aktion-kinder-sicher-im-netz/surfen-aber-sicher/
