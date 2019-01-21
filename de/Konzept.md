@@ -75,23 +75,21 @@ Zum Anschauen der Kapitel einfach auf das entsprechende Bild klicken, dann auf "
 
 
 ## Links
-https://klicksafe.de
-
-https://handysektor.de
-
-https://www.polizei-beratung.de/opferinformationen/beratungsstellensuche/
-https://www.polizei-beratung.de/startseite-und-aktionen/verklickt/
-Bundesministerium für Familie, Senioren, Frauen und Jugend: https://www.bmfsfj.de/bmfsfj/themen/kinder-und-jugend/medienkompetenz und http://www.kinder-ministerium.de
-https://motherboard.vice.com/de/article/7xea4z/hacker-erklaren-welche-messenger-app-am-sichersten-ist
-https://www.internet-abc.de
-https://www.digitale-helden.de/
-https://www.medien-sicher.de/jms/Handbuch_Jugendmedienschutz.pdf
-https://ccc.de/schule
-https://www.medienmonster.info/
-https://edri.org/digital-defenders-help-kids-defend-their-privacy-around-europe/
-https://digitalegesellschaft.de/
-https://www.medienscouts-nrw.de/wp-content/uploads/2017/04/Materialsammlung-zur-inklusiven-Medienbildung.pdf
-MPFS: JIM, KIM, miniKIM:
- http://www.mpfs.de/index.php?id=462.
- http://www.mpfs.de/studien/?tab=tab-18-1
+- https://klicksafe.de
+- https://handysektor.de
+- https://www.polizei-beratung.de/opferinformationen/beratungsstellensuche/
+- https://www.polizei-beratung.de/startseite-und-aktionen/verklickt/
+- Bundesministerium für Familie, Senioren, Frauen und Jugend: https://www.bmfsfj.de/bmfsfj/themen/kinder-und-jugend/medienkompetenz und http://www.kinder-ministerium.de
+- https://motherboard.vice.com/de/article/7xea4z/hacker-erklaren-welche-messenger-app-am-sichersten-ist
+- https://www.internet-abc.de
+- https://www.digitale-helden.de/
+- https://www.medien-sicher.de/jms/Handbuch_Jugendmedienschutz.pdf
+- https://ccc.de/schule
+- https://www.medienmonster.info/
+- https://edri.org/digital-defenders-help-kids-defend-their-privacy-around-europe/
+- https://digitalegesellschaft.de/
+- https://www.medienscouts-nrw.de/wp-content/uploads/2017/04/Materialsammlung-zur-inklusiven-Medienbildung.pdf
+- MPFS: JIM, KIM, miniKIM:
+  - http://www.mpfs.de/index.php?id=462.
+  - http://www.mpfs.de/studien/?tab=tab-18-1
 
