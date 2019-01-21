@@ -76,7 +76,9 @@ Zum Anschauen der Kapitel einfach auf das entsprechende Bild klicken, dann auf "
 
 ## Links
 https://klicksafe.de
+
 https://handysektor.de
+
 https://www.polizei-beratung.de/opferinformationen/beratungsstellensuche/
 https://www.polizei-beratung.de/startseite-und-aktionen/verklickt/
 Bundesministerium für Familie, Senioren, Frauen und Jugend: https://www.bmfsfj.de/bmfsfj/themen/kinder-und-jugend/medienkompetenz und http://www.kinder-ministerium.de
