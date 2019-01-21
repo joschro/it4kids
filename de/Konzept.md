@@ -8,11 +8,53 @@ Kindern ab Klasse 5 einen gefahrlosen Umgang mit digitalen Medien durch Aufklär
 Relevante Themen in Blöcken von 45min integriert im Schulunterricht oder als zusätzliches Angebot z.B. als AG.
 
 ## Themen
-* Computer & Internet
-* Surfen im Internet: Suchmaschinen und Portale
-* Email: Gefahren und Regeln beim Mailverkehr
-* Datenschutz & Privatsphäre
-* Handy & Co. - Typische Apps
+### Computer & Internet
+#### Komponenten eines Computers
+#### Programmausführung
+#### Client/Server
+#### Dienste im Internet
+##### Suchmaschinen: Google, Bing,
+##### Soziale Netzwerke: Facebook, Twitter, Instagram,
+##### Chat-Dienste: Whatsapp, Facebook Messenger, Snapchat, Hangout
+##### Email: GMX, Web.de, 1&1,
+#### Mobile Clients (Smartphone, Tablet)
+#### Vertrauen in Software & Datensicherheit
+##### Open Source vs. Proprietäre Software
+##### Verschlüsselung
+spiceware
+Verschlüsselung knacken (Alphabet verschieben)
+WhatsApp API
+
+### Surfen im Internet: Suchmaschinen und Portale
+#### https://www.polizei-beratung.de/themen-und-tipps/gefahren-im-internet/aktion-kinder-sicher-im-netz/surfen-aber-sicher/
+#### https://www.blinde-kuh.de
+#### https://www.fragfinn.de/
+
+### Chatten
+#### Video mit Bastian Schweinsteiger: https://www.polizei-beratung.de/themen-und-tipps/gefahren-im-internet/aktion-kinder-sicher-im-netz/chatten-aber-sicher/
+
+### Email: Gefahren und Regeln beim Mailverkehr (Netiquette, SPAM, Hoax & Phishing)
+#### Beispiele von SPAM, Hoaxes und Phishing zeigen
+#### Kettenbriefe, auch WhatsApp! (Momo Selbstmord Kettenbrief)
+ 
+### Datenschutz & Privatsphäre
+#### WhatsApp API zum online-Status: https://www.lorankloeze.nl/2017/05/07/collecting-huge-amounts-of-data-with-whatsapp/
+#### Paper dazu: https://www.uni-ulm.de/fileadmin/website_uni_ulm/iui.inst.100/institut/Papers/Prof_Weber/2014-MUM-whatsapp-privacy.pdf
+#### Spiel:
+    farbige Attribute den Kindern geben und in Listen einordnen:
+
+        * darf nur ich wissen
+        * darf nur meine Eltern wissen
+        * dürfen meine Freunde wissen
+        * darf jeder wissen
+
+#### Gemeinsames Überprüfen der Datenschutzeinstellungen in Apps
+
+
+### Handy & Co. - Standard-Apps
+#### Zeitrafferaufnahmen
+#### Sensoren auswerten
+
 
 
 ## Werkzeuge
@@ -30,3 +72,24 @@ Zum Anschauen der Kapitel einfach auf das entsprechende Bild klicken, dann auf "
 <img src="./1_-_Computer_und_Internet.svg">
 
 2. Anbieter von Diensten im Internet
+
+
+## Links
+https://klicksafe.de
+https://handysektor.de
+https://www.polizei-beratung.de/opferinformationen/beratungsstellensuche/
+https://www.polizei-beratung.de/startseite-und-aktionen/verklickt/
+Bundesministerium für Familie, Senioren, Frauen und Jugend: https://www.bmfsfj.de/bmfsfj/themen/kinder-und-jugend/medienkompetenz und http://www.kinder-ministerium.de
+https://motherboard.vice.com/de/article/7xea4z/hacker-erklaren-welche-messenger-app-am-sichersten-ist
+https://www.internet-abc.de
+https://www.digitale-helden.de/
+https://www.medien-sicher.de/jms/Handbuch_Jugendmedienschutz.pdf
+https://ccc.de/schule
+https://www.medienmonster.info/
+https://edri.org/digital-defenders-help-kids-defend-their-privacy-around-europe/
+https://digitalegesellschaft.de/
+https://www.medienscouts-nrw.de/wp-content/uploads/2017/04/Materialsammlung-zur-inklusiven-Medienbildung.pdf
+MPFS: JIM, KIM, miniKIM:
+ http://www.mpfs.de/index.php?id=462.
+ http://www.mpfs.de/studien/?tab=tab-18-1
+
