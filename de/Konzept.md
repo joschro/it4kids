@@ -77,10 +77,14 @@ Zum Anschauen der Kapitel einfach auf das entsprechende Bild klicken, dann auf "
 ## Links
 - https://klicksafe.de
 - https://handysektor.de
+- https://www.polizei-beratung.de/themen-und-tipps/gefahren-im-internet/medienkompetenz
 - https://www.polizei-beratung.de/opferinformationen/beratungsstellensuche/
 - https://www.polizei-beratung.de/startseite-und-aktionen/verklickt/
 - Bundesministerium für Familie, Senioren, Frauen und Jugend: https://www.bmfsfj.de/bmfsfj/themen/kinder-und-jugend/medienkompetenz und http://www.kinder-ministerium.de
+- https://de.wikipedia.org/wiki/Social_Media
+- https://www.wdrmaus.de/filme/sachgeschichten/computer.php5
 - https://motherboard.vice.com/de/article/7xea4z/hacker-erklaren-welche-messenger-app-am-sichersten-ist
+- https://www.welt.de/kmpkt/article181691812/WhatsApp-Gruender-packt-aus-Ich-habe-die-Privatsphaere-meiner-User-verkauft.html
 - https://www.internet-abc.de
 - https://www.digitale-helden.de/
 - https://www.medien-sicher.de/jms/Handbuch_Jugendmedienschutz.pdf
