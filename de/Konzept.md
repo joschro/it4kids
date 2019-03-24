@@ -8,17 +8,23 @@ Kindern ab Klasse 5 einen gefahrlosen Umgang mit digitalen Medien durch Aufklär
 Relevante Themen in Blöcken von 45min integriert im Schulunterricht oder als zusätzliches Angebot z.B. als AG.
 
 ## Themen
-### Computer & Internet
+### Computer, Netzwerke & das Internet
 #### Komponenten eines Computers
+- Computer, Tastatur, Maus und Monitor
+- Motherboard, Prozessor und das I/O System
 #### Programmausführung
+- Bits & Bytes
+- Maschinensprache
+- Programmiersprachen
 #### Client/Server
-#### Dienste im Internet
-- Suchmaschinen: Google, Bing,
+- Protokolle, die Sprache der Computer
+### Dienste im Internet
+- Suchmaschinen: Google, Bing, Duck Duck Go
 - Soziale Netzwerke: Facebook, Twitter, Instagram,
 - Chat-Dienste: Whatsapp, Facebook Messenger, Snapchat, Hangout
 - Email: GMX, Web.de, 1&1,
-#### Mobile Clients (Smartphone, Tablet)
-#### Vertrauen in Software & Datensicherheit
+### Mobile Clients (Smartphone, Tablet)
+### Vertrauen in Software & Datensicherheit
 - Open Source vs. Proprietäre Software
 - Verschlüsselung
   - spiceware
