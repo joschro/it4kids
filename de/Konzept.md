@@ -103,3 +103,7 @@ Zum Anschauen der Kapitel einfach auf das entsprechende Bild klicken, dann auf "
   - http://www.mpfs.de/index.php?id=462.
   - http://www.mpfs.de/studien/?tab=tab-18-1
 
+## Raspberry Pi als freier WLAN Access Point mit Pi-Hole zur Beobachtung der kontaktierten Server im Internet
+- https://github.com/oblique/create_ap
+- https://github.com/pi-hole/pi-hole/#one-step-automated-install
+- http://ipmap.devio.at/
