@@ -8,7 +8,7 @@ Kindern ab Klasse 5 einen gefahrlosen Umgang mit digitalen Medien durch Aufklär
 Relevante Themen in Blöcken von 45min integriert im Schulunterricht oder als zusätzliches Angebot z.B. als AG.
 
 ## Themen
-### Computer, Netzwerke & das Internet
+### Computer & das Internet
 #### Komponenten eines Computers
 - Computer, Tastatur, Maus und Monitor
 - Motherboard, Prozessor und das I/O System
