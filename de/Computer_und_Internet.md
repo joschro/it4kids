@@ -1,4 +1,4 @@
-# Computer_und_Internet
+# Computer und Internet
 **Script**
 
 | Seite | Beschreibung
