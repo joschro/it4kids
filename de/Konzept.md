@@ -75,9 +75,15 @@ Zum Anschauen der Kapitel einfach auf das entsprechende Bild klicken, dann auf "
 
 1. Computer & Internet
 
-<img src="./1_-_Computer_und_Internet.svg">
+<img src="./Computer_und_Internet.svg">
 
 2. Anbieter von Diensten im Internet
+
+<img src="./Dienste_im_Internet.svg.svg">
+
+3. Surfen, Email & Chatten.svg
+
+<img src="./Surfen_Email_Chatten.svg">
 
 
 ## Links
