@@ -16,7 +16,7 @@ Relevante Themen in Blöcken von 45min integriert im Schulunterricht oder als zu
 - Bits & Bytes
 - Maschinensprache
 - Programmiersprachen
-#### Client/Server
+#### Client und Server
 - Protokolle, die Sprache der Computer
 ### Dienste im Internet
 - Suchmaschinen: Google, Bing, Duck Duck Go
