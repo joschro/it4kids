@@ -16,7 +16,7 @@
 #     sudo dnf update -y
 #   und mit bei Aufforderung mit Benutzerpasswort bestätigen. Warten, bis alle Updates durchgeführt wurden. Dann
 #   das Kommando
-#     sudo dnf install -y git
+#     sudo dnf install -y git hostapd
 #   eingeben; danach über das Menü und "Log Out" auf "Restart" klicken. Warten, bis das auf den aktuellen Stand
 #   gebrachte System den Benutzerlogin anzeigt; wieder einloggen.
 # - Folgendes Kommando eingeben:
@@ -34,8 +34,20 @@ test "$(whoami)" == "root" || {
 
 git clone https://github.com/oblique/create_ap.git
 cd create_ap && make install
-create_ap wlan0 eth0 FreeWifi
+# create_ap wlan0 eth0 FreeWifi :
+sed -i "s/^CHANNEL=.*/CHANNEL=13/;^SSID=.*/SSID=FreeWifi/;^PASSPHRASE=.*//;^GATEWAY=.*/GATEWAY=192.168.42.1/;s/^NO_DNS=.*/NO_DNS=1/;s/^NO_DNSMASQ=.*/NO_DNSMASQ=1/;s/^NO_VIRT=.*/NO_VIRT=1/;s/^COUNTRY=.*/COUNTRY=DE" /etc/create_ap.conf
 systemctl enable create_ap
-#systemctl start create_ap
-#curl -sSL https://install.pi-hole.net | bash
+systemctl start create_ap
+# disable SELinux for Pi-Hole (needs to be fixed in Pi-Hole):
+sed -i "s/^SELINUX=.*/SELINUX=disabled/" /etc/selinux/config
+setenforce 0
+# fixes for Pi-Hole:
+firewall-cmd --add-service=dhcp --permanent
+firewall-cmd --reload
+touch /etc/sysconfig/network-scripts/ifcfg-wlan0
+echo -e "Im folgenden Dialog bitte einfach immer mit ok, bestätigen, nur beim Interface "wlan0" auswählen und bei Netzwerk auf <Nein> und als "desired IPv4 address"\n  192.168.42.1/24\n und bei "desired IPv4 default gateway"\n  192.168.42.1\n eingeben! Zum Schluss das angezeigte Admin Passwort merken! Mit <ENTER> geht es weiter."
+read ANSW
+curl -sSL https://install.pi-hole.net | bash
+echo "Nach erfolgreicher Installation kann man sich per Browser (als default ist Chromium installiert) auf "http://192.168.42.1/admin" das Pi-Hole Webinterface anschauen."
+echo "Bitte mit dem gemerkten Admin Passwort einloggen und im Menü links auf "Settings" gehen und den Reiter "DHCP" oben  auswählen. Nun noch "DHCP Server enabled" aktivieren und ganz rechts unten auf "Save" klicken. Jetzt im Reiter "System" auf "Restart System" klicken und bestätigen."
 echo "Done"
