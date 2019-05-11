@@ -19,6 +19,11 @@
 #     sudo dnf install -y git
 #   eingeben; danach über das Menü und "Log Out" auf "Restart" klicken. Warten, bis das auf den aktuellen Stand
 #   gebrachte System den Benutzerlogin anzeigt; wieder einloggen.
+# - Folgendes Kommando eingeben:
+#     git clone https://github.com/joschro/it4kids.git
+# - nun kann auf die Präsentationen unter it4kids/de/ zugegriffen werden und das Skript zum Installieren der
+#   Pi-Hole Software aufgerufen werden:
+#     sudo sh it4kids/de/raspberrypi-free-wlan-ap-pihole.sh
 
 test "$(whoami)" == "root" || {
 	echo "This script needs to be run as user \"root\"! Please use"
@@ -28,6 +33,7 @@ test "$(whoami)" == "root" || {
 }
 
 git clone https://github.com/oblique/create_ap.git
+cd create_ap && make install
 create_ap wlan0 eth0 FreeWifi
 systemctl enable create_ap
 #systemctl start create_ap
