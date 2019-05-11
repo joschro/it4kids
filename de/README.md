@@ -110,6 +110,8 @@ Zum Anschauen der Kapitel einfach auf das entsprechende Bild klicken, dann auf "
   - http://www.mpfs.de/studien/?tab=tab-18-1
 
 ## Raspberry Pi als freier WLAN Access Point mit Pi-Hole zur Beobachtung der kontaktierten Server im Internet
+- Fedora Betriebssystem für den Raspberry Pi: http://fedberry.org/
+  - Download: http://download.fedberry.org/?dir=releases , hier benutzte Variante: fedberry-xfce-29.1.raw.xz
 - https://github.com/oblique/create_ap
 - https://github.com/pi-hole/pi-hole/#one-step-automated-install
 - http://ipmap.devio.at/
