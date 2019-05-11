@@ -32,3 +32,4 @@ create_ap wlan0 eth0 FreeWifi
 systemctl enable create_ap
 #systemctl start create_ap
 #curl -sSL https://install.pi-hole.net | bash
+echo "Done"

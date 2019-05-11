@@ -115,3 +115,5 @@ Zum Anschauen der Kapitel einfach auf das entsprechende Bild klicken, dann auf "
 - Raspberry als WLAN Access Point aufsetzen: https://github.com/oblique/create_ap
 - Pi-Hole installieren: https://github.com/pi-hole/pi-hole/#one-step-automated-install
 - IP Adressen auf einer Weltkarte darstellen: http://ipmap.devio.at/
+
+=> Fertiges Installationsskript in diesem Repository als "raspberrypi-free-wlan-ap-pihole.sh"
