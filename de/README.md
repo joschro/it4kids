@@ -112,6 +112,6 @@ Zum Anschauen der Kapitel einfach auf das entsprechende Bild klicken, dann auf "
 ## Raspberry Pi als freier WLAN Access Point mit Pi-Hole zur Beobachtung der kontaktierten Server im Internet
 - Fedora Betriebssystem für den Raspberry Pi: http://fedberry.org/
   - Download: http://download.fedberry.org/?dir=releases , hier benutzte Variante: fedberry-xfce-29.1.raw.xz
-- https://github.com/oblique/create_ap
-- https://github.com/pi-hole/pi-hole/#one-step-automated-install
-- http://ipmap.devio.at/
+- Raspberry als WLAN Access Point aufsetzen: https://github.com/oblique/create_ap
+- Pi-Hole installieren: https://github.com/pi-hole/pi-hole/#one-step-automated-install
+- IP Adressen auf einer Weltkarte darstellen: http://ipmap.devio.at/
