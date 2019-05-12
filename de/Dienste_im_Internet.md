@@ -3,7 +3,7 @@
 
 | Seite | Beschreibung
 | -----: | ------------
-| 1 | 
+| 1 | Im Grunde genommen sind alle Dinge, die wir im Internet machen, sogenannte "Dienste"
 | 2 | 
 | 3 | 
 | 4 | 
