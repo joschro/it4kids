@@ -41,7 +41,7 @@ Relevante Themen in Blöcken von 45min integriert im Schulunterricht oder als zu
 
 ### Email: Gefahren und Regeln beim Mailverkehr (Netiquette, SPAM, Hoax & Phishing)
 #### Beispiele von SPAM, Hoaxes und Phishing zeigen
-#### Kettenbriefe, auch WhatsApp! (Momo Selbstmord Kettenbrief)
+#### Kettenbriefe, auch WhatsApp! (z.B. Momo Kettenbrief)
  
 ### Datenschutz & Privatsphäre
 #### WhatsApp API zum online-Status: https://www.lorankloeze.nl/2017/05/07/collecting-huge-amounts-of-data-with-whatsapp/
