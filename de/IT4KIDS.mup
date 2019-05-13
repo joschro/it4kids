@@ -1,0 +1,520 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "IT4KIDS",
+      "id": 1,
+      "attr": {
+        "position": [
+          -29,
+          -15,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Computer & das Internet",
+          "id": "2.2275.7a23b8d16-3e24.cdc448103",
+          "ideas": {
+            "1": {
+              "title": "Komponenten eines Computers",
+              "id": "4.2275.7a23b8d16-3e24.cdc448103",
+              "ideas": {
+                "1": {
+                  "title": "Computer, Tastatur, Maus und Monitor",
+                  "id": "7.2275.7a23b8d16-3e24.cdc448103"
+                },
+                "2": {
+                  "title": "Motherboard, Prozessor und das I/O System",
+                  "id": "8.2275.7a23b8d16-3e24.cdc448103"
+                }
+              }
+            },
+            "2": {
+              "title": "Programmausführung",
+              "id": "5.2275.7a23b8d16-3e24.cdc448103",
+              "ideas": {
+                "1": {
+                  "title": "Bits & Bytes",
+                  "id": "9.2275.7a23b8d16-3e24.cdc448103"
+                },
+                "2": {
+                  "title": "Maschinensprache",
+                  "id": "10.2275.7a23b8d16-3e24.cdc448103"
+                },
+                "3": {
+                  "title": "Programmiersprachen",
+                  "id": "11.2275.7a23b8d16-3e24.cdc448103"
+                }
+              }
+            },
+            "3": {
+              "title": "Client / Server",
+              "id": "6.2275.7a23b8d16-3e24.cdc448103",
+              "ideas": {
+                "1": {
+                  "title": "Protokolle, die Sprache der Computer",
+                  "id": "12.2275.7a23b8d16-3e24.cdc448103"
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Dienste im Internet",
+          "id": "16.2275.7a23b8d16-3e24.cdc448103",
+          "ideas": {
+            "1": {
+              "title": "Suchmaschinen: Google, Bing, Duck Duck Go",
+              "id": "17.2275.7a23b8d16-3e24.cdc448103"
+            },
+            "2": {
+              "title": "Soziale Netzwerke: Facebook, Twitter, Instagram",
+              "id": "18.2275.7a23b8d16-3e24.cdc448103"
+            },
+            "3": {
+              "title": "Chat-Dienste: Whatsapp, Facebook Messenger, Snapchat, Hangout\n\n",
+              "id": "19.2275.7a23b8d16-3e24.cdc448103"
+            },
+            "4": {
+              "title": "Email: GMX, Web.de, 1&1",
+              "id": "20.2275.7a23b8d16-3e24.cdc448103"
+            }
+          }
+        },
+        "12": {
+          "title": "Mobile Clients (Smartphone, Tablet)",
+          "id": "21.2275.7a23b8d16-3e24.cdc448103"
+        },
+        "22": {
+          "title": "Vertrauen in Software & Datensicherheit",
+          "id": "22.2275.7a23b8d16-3e24.cdc448103",
+          "ideas": {
+            "1": {
+              "title": "Open Source vs. Proprietäre Software",
+              "id": "24.2275.7a23b8d16-3e24.cdc448103"
+            },
+            "2": {
+              "title": "Verschlüsselung",
+              "id": "25.2275.7a23b8d16-3e24.cdc448103",
+              "ideas": {
+                "1": {
+                  "title": "spiceware",
+                  "id": "26.2275.7a23b8d16-3e24.cdc448103"
+                },
+                "2": {
+                  "title": "Verschlüsselung knacken (Alphabet verschieben)",
+                  "id": "27.2275.7a23b8d16-3e24.cdc448103"
+                },
+                "3": {
+                  "title": "WhatsApp API",
+                  "id": "28.2275.7a23b8d16-3e24.cdc448103"
+                }
+              }
+            }
+          }
+        },
+        "-10": {
+          "title": "Handy & Co. - Standard-Apps",
+          "id": "43.2275.7a23b8d16-3e24.cdc448103",
+          "ideas": {
+            "1": {
+              "title": "Zeitrafferaufnahmen",
+              "id": "44.2275.7a23b8d16-3e24.cdc448103"
+            },
+            "2": {
+              "title": "Sensoren auswerten",
+              "id": "45.2275.7a23b8d16-3e24.cdc448103"
+            }
+          },
+          "attr": {
+            "position": [
+              409,
+              -62,
+              1
+            ]
+          }
+        },
+        "-20": {
+          "title": "Surfen im Internet: Suchmaschinen und Portale",
+          "id": "29.2275.7a23b8d16-3e24.cdc448103",
+          "ideas": {
+            "1": {
+              "title": "https://www.polizei-beratung.de/themen-und-tipps/gefahren-im-internet/aktion-kinder-sicher-im-netz/surfen-aber-sicher/",
+              "id": "30.2275.7a23b8d16-3e24.cdc448103"
+            },
+            "2": {
+              "title": "https://www.blinde-kuh.de",
+              "id": "31.2275.7a23b8d16-3e24.cdc448103"
+            },
+            "3": {
+              "title": "https://www.fragfinn.de/",
+              "id": "32.2275.7a23b8d16-3e24.cdc448103"
+            }
+          },
+          "attr": {
+            "position": [
+              102,
+              148,
+              2
+            ]
+          }
+        },
+        "-5": {
+          "title": "Chatten",
+          "id": "33.2275.7a23b8d16-3e24.cdc448103",
+          "ideas": {
+            "1": {
+              "title": "Video mit Bastian Schweinsteiger: https://www.polizei-beratung.de/themen-und-tipps/gefahren-im-internet/aktion-kinder-sicher-im-netz/chatten-aber-sicher/",
+              "id": "34.2275.7a23b8d16-3e24.cdc448103"
+            }
+          },
+          "attr": {
+            "position": [
+              188,
+              -159,
+              3
+            ]
+          }
+        },
+        "-2.5": {
+          "title": "Email: Gefahren und Regeln beim Mailverkehr (Netiquette, SPAM, Hoax & Phishing)",
+          "id": "35.2275.7a23b8d16-3e24.cdc448103",
+          "ideas": {
+            "1": {
+              "title": "Kettenbriefe, auch WhatsApp! (z.B. Momo Kettenbrief)",
+              "id": "38.2275.7a23b8d16-3e24.cdc448103"
+            },
+            "2": {
+              "title": "Beispiele mit Phishing und SPAM",
+              "id": "46.f434.15b67360a-108b.c63349524"
+            }
+          },
+          "attr": {
+            "position": [
+              104,
+              -353,
+              4
+            ]
+          }
+        },
+        "-30": {
+          "title": "Datenschutz & Privatsphäre",
+          "id": "39.2275.7a23b8d16-3e24.cdc448103",
+          "ideas": {
+            "1": {
+              "title": "WhatsApp API zum online-Status: https://www.lorankloeze.nl/2017/05/07/collecting-huge-amounts-of-data-with-whatsapp/",
+              "id": "40.2275.7a23b8d16-3e24.cdc448103",
+              "ideas": {
+                "1": {
+                  "title": "Paper dazu: https://www.uni-ulm.de/fileadmin/website_uni_ulm/iui.inst.100/institut/Papers/Prof_Weber/2014-MUM-whatsapp-privacy.pdf",
+                  "id": "41.2275.7a23b8d16-3e24.cdc448103"
+                }
+              }
+            },
+            "2": {
+              "title": "Gemeinsames Überprüfen der Datenschutzeinstellungen in Apps",
+              "id": "42.2275.7a23b8d16-3e24.cdc448103"
+            }
+          },
+          "attr": {
+            "position": [
+              196,
+              392,
+              5
+            ]
+          }
+        }
+      }
+    }
+  },
+  "title": "IT4KIDS",
+  "links": [],
+  "attr": {
+    "theme": "default"
+  },
+  "theme": {
+    "name": "MindMup Default",
+    "node": [
+      {
+        "name": "default",
+        "cornerRadius": 10,
+        "backgroundColor": "#E0E0E0",
+        "border": {
+          "type": "surround",
+          "line": {
+            "color": "#707070",
+            "width": 1,
+            "style": "solid"
+          }
+        },
+        "shadow": [
+          {
+            "color": "#070707",
+            "opacity": 0.4,
+            "offset": {
+              "width": 2,
+              "height": 2
+            },
+            "radius": 2
+          }
+        ],
+        "text": {
+          "margin": 5,
+          "alignment": "center",
+          "maxWidth": 146,
+          "color": "#4F4F4F",
+          "lightColor": "#EEEEEE",
+          "darkColor": "#000000",
+          "font": {
+            "lineSpacing": 4.5,
+            "lineSpacingPx": 6,
+            "size": 9,
+            "sizePx": 12,
+            "weight": "bold"
+          }
+        },
+        "connections": {
+          "default": {
+            "h": "center",
+            "v": "center"
+          },
+          "from": {
+            "horizontal": {
+              "h": "nearest-inset",
+              "v": "center"
+            }
+          },
+          "to": {
+            "h": "nearest",
+            "v": "center"
+          }
+        },
+        "decorations": {
+          "height": 20,
+          "edge": "top",
+          "overlap": true,
+          "position": "end",
+          "margin": 2,
+          "label": {
+            "border": 1,
+            "cornerRadius": 11,
+            "margin": 2,
+            "font": {
+              "lineSpacing": 0,
+              "lineSpacingPx": 0,
+              "size": 9,
+              "sizePx": 12,
+              "weight": "bold"
+            }
+          },
+          "cornerRadius": 12,
+          "backgroundColor": "#22aae0",
+          "opacity": 0.8,
+          "color": "#ffffff"
+        }
+      },
+      {
+        "name": "level_1",
+        "backgroundColor": "#22AAE0"
+      },
+      {
+        "name": "activated",
+        "border": {
+          "type": "surround",
+          "line": {
+            "color": "#22AAE0",
+            "width": 3,
+            "style": "dotted"
+          }
+        }
+      },
+      {
+        "name": "level_1.activated",
+        "border": {
+          "type": "surround",
+          "line": {
+            "color": "#EEEEEE",
+            "width": 3,
+            "style": "dotted"
+          }
+        }
+      },
+      {
+        "name": "selected",
+        "shadow": [
+          {
+            "color": "#000000",
+            "opacity": 0.9,
+            "offset": {
+              "width": 2,
+              "height": 2
+            },
+            "radius": 2
+          }
+        ]
+      },
+      {
+        "name": "collapsed",
+        "shadow": [
+          {
+            "color": "#888888",
+            "offset": {
+              "width": 0,
+              "height": 1
+            },
+            "radius": 0
+          },
+          {
+            "color": "#FFFFFF",
+            "offset": {
+              "width": 0,
+              "height": 3
+            },
+            "radius": 0
+          },
+          {
+            "color": "#888888",
+            "offset": {
+              "width": 0,
+              "height": 4
+            },
+            "radius": 0
+          },
+          {
+            "color": "#FFFFFF",
+            "offset": {
+              "width": 0,
+              "height": 6
+            },
+            "radius": 0
+          },
+          {
+            "color": "#888888",
+            "offset": {
+              "width": 0,
+              "height": 7
+            },
+            "radius": 0
+          }
+        ]
+      },
+      {
+        "name": "collapsed.selected",
+        "shadow": [
+          {
+            "color": "#FFFFFF",
+            "offset": {
+              "width": 0,
+              "height": 1
+            },
+            "radius": 0
+          },
+          {
+            "color": "#888888",
+            "offset": {
+              "width": 0,
+              "height": 3
+            },
+            "radius": 0
+          },
+          {
+            "color": "#FFFFFF",
+            "offset": {
+              "width": 0,
+              "height": 6
+            },
+            "radius": 0
+          },
+          {
+            "color": "#555555",
+            "offset": {
+              "width": 0,
+              "height": 7
+            },
+            "radius": 0
+          },
+          {
+            "color": "#FFFFFF",
+            "offset": {
+              "width": 0,
+              "height": 10
+            },
+            "radius": 0
+          },
+          {
+            "color": "#333333",
+            "offset": {
+              "width": 0,
+              "height": 11
+            },
+            "radius": 0
+          }
+        ]
+      }
+    ],
+    "connector": {
+      "default": {
+        "type": "quadratic",
+        "controlPoint": {
+          "above": {
+            "width": 0,
+            "height": 0.75
+          },
+          "below": {
+            "width": 0,
+            "height": 0.75
+          },
+          "horizontal": {
+            "width": 0,
+            "height": 0
+          }
+        },
+        "label": {
+          "position": {
+            "ratio": 0.5
+          },
+          "backgroundColor": "transparent",
+          "borderColor": "transparent",
+          "text": {
+            "color": "#4F4F4F",
+            "font": {
+              "size": 9,
+              "sizePx": 12,
+              "weight": "normal"
+            }
+          }
+        },
+        "line": {
+          "color": "#707070",
+          "width": 1
+        }
+      }
+    },
+    "link": {
+      "default": {
+        "line": {
+          "color": "red",
+          "lineStyle": "dashed",
+          "width": 1
+        },
+        "label": {
+          "position": {
+            "ratio": 0.5
+          },
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#FFFFFF",
+          "text": {
+            "color": "#4F4F4F",
+            "font": {
+              "size": 9,
+              "sizePx": 12,
+              "weight": "normal"
+            }
+          }
+        }
+      }
+    }
+  }
+}
