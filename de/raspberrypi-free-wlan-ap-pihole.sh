@@ -1,5 +1,21 @@
 #!/bin/sh
 
+#    This file is part of IT4KIDS (https://github.com/joschro/it4kids/).
+#
+#    IT4KIDS is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    IT4KIDS is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with IT4KIDS.  If not, see <https://www.gnu.org/licenses/>.
+#
+
 # Fedberry Installation:
 #
 # - http://download.fedberry.org/releases/29/images/armhfp/29.1/fedberry-xfce-29.1.raw.xz herunterladen
@@ -32,16 +48,19 @@ test "$(whoami)" == "root" || {
 	exit
 }
 
+# setting up the free WLAN access point:
 git clone https://github.com/oblique/create_ap.git
 cd create_ap && make install
-# create_ap wlan0 eth0 FreeWifi :
-sed -i "s/^CHANNEL=.*/CHANNEL=13/;s/^SSID=.*/SSID=FreeWifi/;s/^PASSPHRASE=.*//;s/^GATEWAY=.*/GATEWAY=192.168.42.1/;s/^NO_DNS=.*/NO_DNS=1/;s/^NO_DNSMASQ=.*/NO_DNSMASQ=1/;s/^NO_VIRT=.*/NO_VIRT=1/;s/^COUNTRY=.*/COUNTRY=DE/" /etc/create_ap.conf
+# adapt config for the same effect as cmd line "create_ap wlan0 eth0 FreeWifi" :
+sed -i "s/^CHANNEL=.*/CHANNEL=13/;s/^SSID=.*/SSID=FreeWifi/;s/^PASSPHRASE=.*//;s/^GATEWAY=.*/GATEWAY=192.168.42.1/;s/^NO_DNS=.*/NO_DNS=1/;s/^NO_DNSMASQ=.*/NO_DNSMASQ=1/;s/^NO_VIRT=.*/NO_VIRT=1/;s/^COUNTRY=.*/COUNTRY=DE/" /etc/create_ap.conf # credits to Matthias Pfützner for fixing the sed statement
 systemctl enable create_ap
 systemctl start create_ap
-# disable SELinux for Pi-Hole (needs to be fixed in Pi-Hole):
+
+# setting up Pi-hole
+# disable SELinux for Pi-hole (needs to be fixed in Pi-hole):
 sed -i "s/^SELINUX=.*/SELINUX=disabled/" /etc/selinux/config
 setenforce 0
-# fixes for Pi-Hole:
+# fixes for Pi-hole:
 firewall-cmd --add-service=dhcp --permanent
 firewall-cmd --reload
 touch /etc/sysconfig/network-scripts/ifcfg-wlan0
