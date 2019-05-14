@@ -35,7 +35,7 @@ test "$(whoami)" == "root" || {
 git clone https://github.com/oblique/create_ap.git
 cd create_ap && make install
 # create_ap wlan0 eth0 FreeWifi :
-sed -i "s/^CHANNEL=.*/CHANNEL=13/;^SSID=.*/SSID=FreeWifi/;^PASSPHRASE=.*//;^GATEWAY=.*/GATEWAY=192.168.42.1/;s/^NO_DNS=.*/NO_DNS=1/;s/^NO_DNSMASQ=.*/NO_DNSMASQ=1/;s/^NO_VIRT=.*/NO_VIRT=1/;s/^COUNTRY=.*/COUNTRY=DE" /etc/create_ap.conf
+sed -i "s/^CHANNEL=.*/CHANNEL=13/;s/^SSID=.*/SSID=FreeWifi/;s/^PASSPHRASE=.*//;s/^GATEWAY=.*/GATEWAY=192.168.42.1/;s/^NO_DNS=.*/NO_DNS=1/;s/^NO_DNSMASQ=.*/NO_DNSMASQ=1/;s/^NO_VIRT=.*/NO_VIRT=1/;s/^COUNTRY=.*/COUNTRY=DE/" /etc/create_ap.conf
 systemctl enable create_ap
 systemctl start create_ap
 # disable SELinux for Pi-Hole (needs to be fixed in Pi-Hole):
