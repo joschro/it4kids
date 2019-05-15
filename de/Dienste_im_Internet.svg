@@ -26,14 +26,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="20.48"
-     inkscape:cx="50.221433"
-     inkscape:cy="318.76951"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="540.98"
+     inkscape:cy="391.03571"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1135"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -11677,7 +11677,7 @@
            style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd" />
         <polygon
            id="polygon3151"
-           points="225.108,70.765 225.108,58.205 233.128,70.783 242.362,70.783 233.659,57.129 242.362,43.52 233.128,43.52 225.108,56.058 225.108,29.896 225.108,29.724 225.108,28.669 216.403,29.724 216.403,70.765 "
+           points="233.128,70.783 242.362,70.783 233.659,57.129 242.362,43.52 233.128,43.52 225.108,56.058 225.108,29.896 225.108,29.724 225.108,28.669 216.403,29.724 216.403,70.765 225.108,70.765 225.108,58.205 "
            style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd" />
         <path
            id="path3153"
@@ -11896,10 +11896,10 @@
        x="15.785606"
        y="279.71622" />
     <a
-       transform="translate(-9.3017578,-95.474936)"
-       id="a2823"
+       xlink:href="Surfen_Email_Chatten.svg"
        style="display:inline;opacity:0.1"
-       xlink:href="/home/joschro/Projekte/it4kids/de/Surfen_Email_Chatten.svg">
+       id="a2823"
+       transform="translate(-9.3017578,-95.474936)">
       <ellipse
          style="opacity:0.803;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.82142861"
          id="path2821"
@@ -14882,10 +14882,12 @@ and Macao would be overridden by this command) -->
 
 
 
+
   
   .cn  { fill: #de2910; }
 
 <!-- Facebook -->
+
 
 
 
@@ -14950,9 +14952,11 @@ and Macao would be overridden by this command) -->
 
 
 
+
   .by, .kz, .ru, .ua  { fill: #965220; }                          
     
 <!-- Facenama -->
+
 
 
 
@@ -14994,9 +14998,11 @@ and Macao would be overridden by this command) -->
 
 
 
+
   .jp  { fill: #5ea9dd; }
   
 <!-- Odnoklassniki -->
+
 
 
 
@@ -15032,6 +15038,7 @@ and Macao would be overridden by this command) -->
      using Alexa as the source as their order is by traffic volume AFAIK.)
      -->
 <!-- Show the following circles for small countries -->
+
 
 
 
