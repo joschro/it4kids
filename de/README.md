@@ -79,7 +79,7 @@ Zum Anschauen der Kapitel einfach auf das entsprechende Bild klicken, dann auf "
 
 2. Anbieter von Diensten im Internet
 
-<img src="./Dienste_im_Internet.svg.svg">
+<img src="./Dienste_im_Internet.svg">
 
 3. Surfen, Email & Chatten.svg
 
