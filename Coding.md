@@ -1,9 +1,9 @@
 # Links
 
 ## Beginners
-https://scratch.mit.edu
+* https://scratch.mit.edu
 
 ## Advanced
 
 ## Experts
-https://machinelearningforkids.co.uk/
+* https://machinelearningforkids.co.uk/
