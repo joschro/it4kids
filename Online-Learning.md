@@ -3,6 +3,8 @@ Online Learning
 
 A tools collection. Free and non-free. Only requirement should be a web browser, apps are optional.
 
+---
+
 ### Video/Web Conferencing
   #### Free
   * Jitsi - https://jitsi.org is an Open Source video conferencing tool, see https://github.com/jitsi
@@ -24,3 +26,5 @@ A tools collection. Free and non-free. Only requirement should be a web browser,
   
   #### Non-Free
   * https://miro.com/
+
+---
